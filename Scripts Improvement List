@@ -1,0 +1,4 @@
+Looper.sh
+
+Establish error-logging for files that fail to download while wget is running. Include date, time, code failure, and URL of file. 
+Create auto directory detection based on format of source text files.
